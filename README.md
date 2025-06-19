@@ -51,4 +51,4 @@ Currently, I do not have any blog posts to share. Stay tuned for updates!
 
 ## Connect with Me
 
-{"twitter":"https://x.com/LFakhrddin","linkedin":"https://www.linkedin.com/in/fakhreddine-largou-05b7a3340/"}
+{"Linkedin":"https://www.linkedin.com/in/fakhreddine-largou-05b7a3340/"}
