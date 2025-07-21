@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Frontend Web Development , Basics , TypeScript of APIs ,**
 
-- 🤝 I’m looking for help with [multi-step-form](https://multi-step-form-main-fawn.vercel.app/)
-
 - 👨‍💻 All of my projects are available at [https://my-poject-lyart.vercel.app/](https://my-poject-lyart.vercel.app/)
 
 - 💬 Ask me about **React,JavaScript (JS), and TypeScript (TS)**
