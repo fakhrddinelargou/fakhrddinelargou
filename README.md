@@ -1,53 +1,32 @@
-## Hi there! 👋
+<h1 align="center">Hi 👋, I'm fakhreddinelargou</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-I'm a passionate web developer focused on building responsive and user-centered digital experiences. I love turning ideas into real, interactive websites and continuously learning to improve my skills.
+- 🔭 I’m currently working on [app-launchpad](https://app-launchpad-qeoe.vercel.app/)
 
-## About Me
+- 🌱 I’m currently learning **Frontend Web Development , Basics , TypeScript of APIs ,**
 
+- 🤝 I’m looking for help with [multi-step-form](https://multi-step-form-main-fawn.vercel.app/)
 
-Based in **Casablanca**, I am currently working as a web developer.  
-I enjoy turning ideas into reality through code and design.  
-My goal is to create seamless user experiences that are both functional and aesthetically pleasing.
+- 👨‍💻 All of my projects are available at [https://my-poject-lyart.vercel.app/](https://my-poject-lyart.vercel.app/)
 
-## Skills & Technologies
+- 💬 Ask me about **React,JavaScript (JS), and TypeScript (TS)**
 
-react,js,ts,tailwind,css,html,git,github
+- 📫 How to reach me **largofakhrddin@gmail.com**
 
-## Top Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lfakhrddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lfakhrddin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fakhreddine-largou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakhreddine-largou" height="30" width="40" /></a>
+</p>
 
-- [multi-step-form-main](https://github.com/fakhrddinelargou/multi-step-form-main)  
-  A responsive multi-step form built with React and TypeScript. 🌟  
-  Stars: 0 | Language: TypeScript | Forks: 0 | Issues: 0  
-- [form](https://github.com/fakhrddinelargou/form)  
-  A simple form application built with React. 🌟  
-  Stars: 0 | Language: TypeScript | Forks: 0 | Issues: 0  
-- [react-digital-clock](https://github.com/fakhrddinelargou/react-digital-clock)  
-  A digital clock built with React. 🌟  
-  Stars: 0 | Language: JavaScript | Forks: 0 | Issues: 0  
-- [product-list-with-react](https://github.com/fakhrddinelargou/product-list-with-react)  
-  A product listing app built with React. 🌟  
-  Stars: 0 | Language: JavaScript | Forks: 0 | Issues: 0  
-- [To-Do-list](https://github.com/fakhrddinelargou/To-Do-list)  
-  A simple to-do list application built with JavaScript. 🌟  
-  Stars: 0 | Language: JavaScript | Forks: 0 | Issues: 0
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrddinelargou&show_icons=true&locale=en&layout=compact" alt="fakhrddinelargou" /></p>
 
-👨‍💻 **Public Repositories:** 30  
-👥 **Followers:** 6  
-🔄 **Following:** 4  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fakhrddinelargou&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fakhrddinelargou&show_icons=true&locale=en" alt="fakhrddinelargou" /></p>
 
-## Recent Activity
-
-- **Pushed** to [multi-step-form-main](https://github.com/fakhrddinelargou/multi-step-form-main): Implemented useSearchParams to retrieve plan and price from URL  
-- **Pushed** to [form](https://github.com/fakhrddinelargou/form): Resolved logical issues and cleaned up code  
-- **Pushed** to [To-Do-list](https://github.com/fakhrddinelargou/To-Do-list): Updated features and fixed bugs  
-- **Created** a new branch in [multi-step-form-main](https://github.com/fakhrddinelargou/multi-step-form-main)
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts to share. Stay tuned for updates!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrddinelargou&" alt="fakhrddinelargou" /></p>
 
 ## Connect with Me
 
